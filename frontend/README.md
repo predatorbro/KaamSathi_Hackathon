@@ -7,7 +7,7 @@ This is a Next.js-based frontend application for the hackathon project, featurin
 ## Project Structure
 
 ```
-C:\USERS\YENAYAT\PROJECTS\HACKATHON\FRONTEND
+C:\KaamSathi_Hackathon\FRONTEND
 │   Configuration files (.env, eslint, tsconfig, etc.)
 │
 ├───app                     # Next.js app directory

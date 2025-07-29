@@ -128,7 +128,4 @@ Access the Swagger documentation at:
    - Description of changes
    - Screenshots (for UI changes)
    - Updated tests
-
-## License
-
-MIT License - see [LICENSE](LICENSE) file for details
+ 

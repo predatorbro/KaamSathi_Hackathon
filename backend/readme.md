@@ -3,7 +3,7 @@
 ## Project Structure
 
 ```
-C:\USERS\YENAYAT\PROJECTS\HACKATHON\BACKEND\SRC
+C:\KaamSathi_Hackathon\BACKEND\SRC
 │   app.ts                  # Main application entry point
 │   data-source.ts          # Database connection configuration
 │
